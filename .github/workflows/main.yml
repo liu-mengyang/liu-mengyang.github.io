@@ -34,10 +34,14 @@ jobs:
 #         run: |
 #           echo Add other actions to build,
 #           echo test, and deploy your project.
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
 
       - name: Install and run proselint
         run: |
-          pip install proselint,
+          python -m pip install proselint,
           proselint *.md
           
       - name: Install and run write-good
