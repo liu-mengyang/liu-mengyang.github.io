@@ -41,7 +41,7 @@ jobs:
 
       - name: Install and run proselint
         run: |
-          python -m pip install proselint,
+          python -m pip install --upgrade proselint,
           proselint *.md
           
       - name: Install and run write-good
