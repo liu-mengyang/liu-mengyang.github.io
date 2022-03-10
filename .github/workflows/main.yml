@@ -47,6 +47,6 @@ jobs:
           
       - name: Install and run write-good
         run: |
-          npm install -g write-good,
+          npm install -g write-good
           write-good *.md
           
