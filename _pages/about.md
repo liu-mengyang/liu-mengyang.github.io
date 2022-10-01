@@ -28,6 +28,13 @@ CBD is an international conference organized by my supervisor and the lab. I pub
   [CBD’2021](https://ist.nwu.edu.cn/dfiles/CBD/index.html)\\
   [[Paper]](https://liumengyang.xyz/pdf/cbd2021.pdf) [[Code]](https://github.com/liu-mengyang/MOTinA) [[Slides]](https://liumengyang.xyz/slides/cbd2021.pdf)
 
+## Projects
+
+- **Rust-MMDeploy**\\
+  A safe Rust wrapper of MMDeploy. MMDeploy is a fantastic toolset for deploying DNN models on various devices with supporting for almost all deployment frameworks.\\
+  ![](https://github.com/liu-mengyang/rust-mmdeploy/blob/main/images/rust-mmdeploy-logo.png)\\
+  [[Repo]](https://github.com/liu-mengyang/rust-mmdeploy)
+
 ## Competitions
 
 ### 2022
@@ -51,5 +58,4 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 - China National Scholarship (Oct. 20)
 - The President Scholarship of Jiangsu University (Top 50 undergraduate students of Jiangsu University, Oct. 20)
 - The first-class Scholarship of Jiangsu University (Oct. 20&19&18)
-
 
