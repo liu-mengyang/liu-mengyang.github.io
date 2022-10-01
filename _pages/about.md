@@ -37,7 +37,7 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 
 ### 2021
 
-- **The Second Prize**\ of The 18th China Postgraduate Mathematical Contest in Modeling of "HuaWei Cup"\\
+- **The Second Prize** of The 18th China Postgraduate Mathematical Contest in Modeling of "HuaWei Cup"\\
   Yunwei Zhang, *Mengyang Liu* and Yuxing Wang\\
   [[Paper]](https://liumengyang.xyz/pdf/cpipc2021-f.pdf) [[Code]](https://github.com/liu-mengyang/CPIPC2021-F)
 - **The Third Prize** of The 1st TensorRT Accelerating AI Inference Hackathon of "Nvidia × Alibaba Cloud - Heterogeneous Computing"\\
