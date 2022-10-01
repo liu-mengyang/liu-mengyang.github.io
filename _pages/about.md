@@ -13,16 +13,14 @@ I am a second-year Master student in Dept. Computer Science of Southeast Univers
 
 ## Publications
 
-### International Conference on Advanced Cloud and Big Data (CBD)
-
 CBD is an international conference organized by my supervisor and the lab. I published some interesting papers and share meaningful ideas with friends at this conference.
 
-#### 2022
+### 2022
 
 - **ColorByte: A real time MOT method using fast appearance feature based on ByteTrack**\\
-  Lin Shen, *Mengyang Liu*, Caishan Weng, Jinghui Zhang and Fang Dong\\
+  Lin Shen, *Mengyang Liu*, Caishan Weng, Jinghui Zhang and Fang Dong
 
-#### 2021
+### 2021
 
 - **Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization**\\
   *Mengyang Liu*, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, Daheng Yin and Fang Dong\\
@@ -37,19 +35,16 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 
 ### 2022
 
-- **The Winning Prize**\\
+- **The Winning Prize** of The 2nd TensorRT Accelerating AI Inference Hackathon of "Nvidia × Alibaba Cloud - Heterogeneous Computing"\\
   *Mengyang Liu*, Daheng Yin and Haodong Tian\\
-  The 2nd TensorRT Accelerating AI Inference Hackathon of "Nvidia × Alibaba Cloud - Heterogeneous Computing"\\
   [[Code]](https://github.com/liu-mengyang/trt-elan)
 
 
 ### 2021
 
-- **The Second Prize**\\
+- **The Second Prize**\ of The 18th China Postgraduate Mathematical Contest in Modeling of "HuaWei Cup"\\
   Yunwei Zhang, *Mengyang Liu* and Yuxing Wang\\
-  The 18th China Postgraduate Mathematical Contest in Modeling of "HuaWei Cup"\\
   [[Paper]](https://liumengyang.xyz/pdf/cpipc2021-f.pdf) [[Code]](https://github.com/liu-mengyang/CPIPC2021-F)
-- **The Third Prize**\\
+- **The Third Prize** of The 1st TensorRT Accelerating AI Inference Hackathon of "Nvidia × Alibaba Cloud - Heterogeneous Computing"\\
   *Mengyang Liu*, Daheng Yin and Anran Tang\\
-  The 1st TensorRT Accelerating AI Inference Hackathon of "Nvidia × Alibaba Cloud - Heterogeneous Computing"\\
   [[Code]](https://github.com/liu-mengyang/trt-fairmot)
