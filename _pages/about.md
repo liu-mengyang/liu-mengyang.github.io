@@ -31,8 +31,7 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 ## Projects
 
 - **Rust-MMDeploy**\\
-  A safe Rust wrapper of MMDeploy. MMDeploy is a fantastic toolset for deploying DNN models on various devices with supporting for almost all deployment frameworks.\\
-  ![](https://github.com/liu-mengyang/rust-mmdeploy/blob/main/images/rust-mmdeploy-logo.png)\\
+  A safe Rust wrapper of MMDeploy. MMDeploy is a fantastic toolset for deploying DNN models on various devices supporting for almost all deployment frameworks.\\
   [[Repo]](https://github.com/liu-mengyang/rust-mmdeploy)
 
 ## Competitions
