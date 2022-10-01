@@ -17,7 +17,7 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 
 ### 2022
 
-- **ColorByte: A real time MOT method using fast appearance feature based on ByteTrack**\\
+- **ColorByte: A Real Time MOT Method Using Fast Appearance Feature Based on ByteTrack**\\
   Lin Shen, *Mengyang Liu*, Caishan Weng, Jinghui Zhang and Fang Dong\\
   [CBD’2022](https://www.cbd-conference.net/2022/)
 
