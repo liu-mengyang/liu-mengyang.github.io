@@ -13,5 +13,17 @@ I am a second-year Master student in Dept. Computer Science of Southeast Univers
 
 ## Publications
 
+### International Conference on Advanced Cloud and Big Data (CBD)
+
+CBD is an international conference organized by my supervisor and the lab. I published some interesting papers and share meaningful ideas with friends at this conference.
+
+- **ColorByte: A real time MOT method using fast appearance feature based on ByteTrack**
+  Lin Shen, *Mengyang Liu*, Caishan Weng, Jinghui Zhang and Fang Dong
+- **Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization**
+  *Mengyang Liu*, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, Daheng Yin and Fang Dong
+  [[Paper]](https://liumengyang.xyz/pdf/cbd2021.pdf) [[Code]](https://github.com/liu-mengyang/MOTinA) [[Slides]](https://liumengyang.xyz/slides/cbd2021.pdf)
+
 ## Awards
 
+- China National Scholarship (Sep. 20)
+- The President Scholarship of Jiangsu University | Top 50 undergraduate students of Jiangsu University (Aug. 20)
