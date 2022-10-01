@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a second-year Master student in Dept. Computer Science of Southeast University and advised by Prof. Fang Dong. I recieved Bachelor's degree at Jiangsu University. My research interests mainly include edge intelligence and deep learning, specially lie in the DNN model deployment, heterogeneous computing and machine learning compilation. I am also absorbed in studying the algorithm and mechanism of multi-object tracking.
+I am a second-year Master student in Dept. Computer Science of Southeast University and advised by Prof. [Fang Dong](https://cse.seu.edu.cn/2019/0102/c23024a256994/page.htm). I recieved Bachelor's degree at Jiangsu University. My research interests mainly include edge intelligence and deep learning, specially lie in the DNN model deployment, heterogeneous computing and machine learning compilation. I am also absorbed in studying the algorithm and mechanism of multi-object tracking.
 
 ## Publications
 
@@ -19,13 +19,13 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 
 - **ColorByte: A real time MOT method using fast appearance feature based on ByteTrack**\\
   Lin Shen, *Mengyang Liu*, Caishan Weng, Jinghui Zhang and Fang Dong\\
-  CBD’2022
+  [CBD’2022](https://www.cbd-conference.net/2022/)
 
 ### 2021
 
 - **Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization**\\
   *Mengyang Liu*, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, Daheng Yin and Fang Dong\\
-  CBD’2021\\
+  [CBD’2021](https://ist.nwu.edu.cn/dfiles/CBD/index.html)\\
   [[Paper]](https://liumengyang.xyz/pdf/cbd2021.pdf) [[Code]](https://github.com/liu-mengyang/MOTinA) [[Slides]](https://liumengyang.xyz/slides/cbd2021.pdf)
 
 ## Competitions
@@ -35,7 +35,6 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 - **The Winning Prize** of The 2nd TensorRT Accelerating AI Inference Hackathon of "Nvidia × Alibaba Cloud - Heterogeneous Computing"\\
   *Mengyang Liu*, Daheng Yin and Haodong Tian\\
   [[Code]](https://github.com/liu-mengyang/trt-elan)
-
 
 ### 2021
 
@@ -48,7 +47,7 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 
 ## Awards
 
-- The second-class Cholarship of Southeast University (Oct. 21)
+- The second-class Scholarship of Southeast University (Oct. 21)
 - China National Scholarship (Oct. 20)
 - The President Scholarship of Jiangsu University (Top 50 undergraduate students of Jiangsu University, Oct. 20)
 - The first-class Scholarship of Jiangsu University (Oct. 20&19&18)
