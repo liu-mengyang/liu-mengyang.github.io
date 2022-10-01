@@ -26,11 +26,6 @@ CBD is an international conference organized by my supervisor and the lab. I pub
   *Mengyang Liu*, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, Daheng Yin and Fang Dong\\
   [[Paper]](https://liumengyang.xyz/pdf/cbd2021.pdf) [[Code]](https://github.com/liu-mengyang/MOTinA) [[Slides]](https://liumengyang.xyz/slides/cbd2021.pdf)
 
-## Awards
-
-- China National Scholarship (Sep. 20)
-- The President Scholarship of Jiangsu University   (Top 50 undergraduate students of Jiangsu University, Aug. 20)
-
 ## Competitions
 
 ### 2022
@@ -48,3 +43,10 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 - **The Third Prize** of The 1st TensorRT Accelerating AI Inference Hackathon of "Nvidia × Alibaba Cloud - Heterogeneous Computing"\\
   *Mengyang Liu*, Daheng Yin and Anran Tang\\
   [[Code]](https://github.com/liu-mengyang/trt-fairmot)
+
+## Awards
+
+- China National Scholarship (Sep. 20)
+- The President Scholarship of Jiangsu University   (Top 50 undergraduate students of Jiangsu University, Aug. 20)
+
+
