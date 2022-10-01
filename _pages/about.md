@@ -17,13 +17,39 @@ I am a second-year Master student in Dept. Computer Science of Southeast Univers
 
 CBD is an international conference organized by my supervisor and the lab. I published some interesting papers and share meaningful ideas with friends at this conference.
 
-- **ColorByte: A real time MOT method using fast appearance feature based on ByteTrack**
-  Lin Shen, *Mengyang Liu*, Caishan Weng, Jinghui Zhang and Fang Dong
-- **Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization**
-  *Mengyang Liu*, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, Daheng Yin and Fang Dong
+#### 2022
+
+- **ColorByte: A real time MOT method using fast appearance feature based on ByteTrack**\\
+  Lin Shen, *Mengyang Liu*, Caishan Weng, Jinghui Zhang and Fang Dong\\
+
+#### 2021
+
+- **Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization**\\
+  *Mengyang Liu*, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, Daheng Yin and Fang Dong\\
   [[Paper]](https://liumengyang.xyz/pdf/cbd2021.pdf) [[Code]](https://github.com/liu-mengyang/MOTinA) [[Slides]](https://liumengyang.xyz/slides/cbd2021.pdf)
 
 ## Awards
 
 - China National Scholarship (Sep. 20)
 - The President Scholarship of Jiangsu University | Top 50 undergraduate students of Jiangsu University (Aug. 20)
+
+## Competitions
+
+### 2022
+
+- **The Winning Prize**\\
+  *Mengyang Liu*, Daheng Yin and Haodong Tian\\
+  The 2nd TensorRT Accelerating AI Inference Hackathon of "Nvidia × Alibaba Cloud - Heterogeneous Computing"\\
+  [[Code]](https://github.com/liu-mengyang/trt-elan)
+
+
+### 2021
+
+- **The Second Prize**\\
+  Yunwei Zhang, *Mengyang Liu* and Yuxing Wang\\
+  The 18th China Postgraduate Mathematical Contest in Modeling of "HuaWei Cup"\\
+  [[Paper]](https://liumengyang.xyz/pdf/cpipc2021-f.pdf) [[Code]](https://github.com/liu-mengyang/CPIPC2021-F)
+- **The Third Prize**\\
+  *Mengyang Liu*, Daheng Yin and Anran Tang\\
+  The 1st TensorRT Accelerating AI Inference Hackathon of "Nvidia × Alibaba Cloud - Heterogeneous Computing"\\
+  [[Code]](https://github.com/liu-mengyang/trt-fairmot)
