@@ -18,12 +18,14 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 ### 2022
 
 - **ColorByte: A real time MOT method using fast appearance feature based on ByteTrack**\\
-  Lin Shen, *Mengyang Liu*, Caishan Weng, Jinghui Zhang and Fang Dong
+  Lin Shen, *Mengyang Liu*, Caishan Weng, Jinghui Zhang and Fang Dong\\
+  CBD’2022
 
 ### 2021
 
 - **Accelerating Multi-Object Tracking in Edge Computing Environment with Time-Spatial Optimization**\\
   *Mengyang Liu*, Anran Tang, Huitian Wang, Lin Shen, Yunhan Chang, Guangxing Cai, Daheng Yin and Fang Dong\\
+  CBD’2021\\
   [[Paper]](https://liumengyang.xyz/pdf/cbd2021.pdf) [[Code]](https://github.com/liu-mengyang/MOTinA) [[Slides]](https://liumengyang.xyz/slides/cbd2021.pdf)
 
 ## Competitions
