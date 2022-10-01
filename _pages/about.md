@@ -31,7 +31,7 @@ CBD is an international conference organized by my supervisor and the lab. I pub
 ## Awards
 
 - China National Scholarship (Sep. 20)
-- The President Scholarship of Jiangsu University | Top 50 undergraduate students of Jiangsu University (Aug. 20)
+- The President Scholarship of Jiangsu University   (Top 50 undergraduate students of Jiangsu University, Aug. 20)
 
 ## Competitions
 
