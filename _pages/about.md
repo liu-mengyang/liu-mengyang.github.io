@@ -34,6 +34,15 @@ CBD is an international conference organized by my supervisor and the lab. I pub
   A safe Rust wrapper of MMDeploy. MMDeploy is a fantastic toolset for deploying DNN models on various devices supporting for almost all deployment frameworks.\\
   [[Repo]](https://github.com/liu-mengyang/rust-mmdeploy)
 
+## Awards
+
+- Tencent Schorlarship (Oct. 22)
+- The first-class Schorlarship of Southeast University (Oct. 22)
+- The second-class Scholarship of Southeast University (Oct. 21)
+- China National Scholarship (Oct. 20)
+- The President Scholarship of Jiangsu University (Top 50 undergraduate students of Jiangsu University, Oct. 20)
+- The first-class Scholarship of Jiangsu University (Oct. 20 & 19 & 18)
+
 ## Competitions
 
 ### 2022
@@ -51,10 +60,5 @@ CBD is an international conference organized by my supervisor and the lab. I pub
   *Mengyang Liu*, Daheng Yin and Anran Tang\\
   [[Code]](https://github.com/liu-mengyang/trt-fairmot)
 
-## Awards
 
-- The second-class Scholarship of Southeast University (Oct. 21)
-- China National Scholarship (Oct. 20)
-- The President Scholarship of Jiangsu University (Top 50 undergraduate students of Jiangsu University, Oct. 20)
-- The first-class Scholarship of Jiangsu University (Oct. 20&19&18)
 
